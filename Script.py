@@ -7,11 +7,11 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
-    ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/BackupByJaggi>JaggiEdits</a>"""
+    ABOUT_TXT = """<b>✯ JaggiEdits: {}
+✯ BackupByJaggi: <a herf=https://t.me/BackupByJaggi>JaggiEdits</a>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/BackupByJaggi>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
+- Join Now› :<a href=https://t.me/BackupByJaggi>-BackupByJaggi</a>
 
 <b>ᴅᴇᴠ: <a herf=https://t.me/BackupByJaggi>JaggiEdits</a></b>"""
 
