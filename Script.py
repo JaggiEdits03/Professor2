@@ -8,7 +8,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ JaggiEdits: {}
-✯ BackupByJaggi: <a herf=https://t.me/BackupByJaggi>JaggiEdits</a>"""
+✯ BackupByJaggi: <a herf=https://t.me/BackupByJaggi>JaggiEdits</a>"""</b>
    
     SOURCE_TXT = """<b>NOTE:</b>
 - Join Now› :<a href=https://t.me/BackupByJaggi>-BackupByJaggi</a>
